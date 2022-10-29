@@ -3,6 +3,9 @@ High quality articles
 
 # 开发类
 原创 | 一篇了解Java反射：https://mp.weixin.qq.com/s/sq-yP-bMOFler0151Y4kxg
+
+Android 性能优化「黑科技」Baseline Profiles | 开发者说·DTalk：https://mp.weixin.qq.com/s/mPxgsHVb4TptkLNzuG3eUA
+
 # 个人提升
 王阳明的「知行合一」该如何理解？我们如何运用到实际生活中：https://mp.weixin.qq.com/s/XXf4DFhnjOC6ZcvPziEjPw
 
@@ -28,6 +31,8 @@ High quality articles
 Android用户隐私保护：https://mp.weixin.qq.com/s/dav3n1Vqlugqb-8eh48OuA
 
 原创 | 一文帮你解决APP抓包难题：https://mp.weixin.qq.com/s/mN5i3z6Sd9G55xPtycbASA
+
+A-Mobile 2022 参会小记：https://mp.weixin.qq.com/s/AAL1DsjqP6065LsaP1pWZw
 
 # 车联网安全
 汽车应用中的数据传输和安全要求：https://mp.weixin.qq.com/s/tf_7mnTKjSbQT4HaXUoPxA
@@ -83,3 +88,6 @@ TCP协议即将走向终结？：https://mp.weixin.qq.com/s/Ud3a1uMp1bdqOaEPxjRK
 网盘太多不好管理？用上这个神器试试！：https://mp.weixin.qq.com/s/8Y3yPZL1fa8P8m36dg02zw
 
 把十几个AI工具做进一个软件，这个工具箱太香了。：https://mp.weixin.qq.com/s/dX_GrTUZDppVf5QNyjKd7g
+
+几个魔幻的公众号，非常刺激：https://mp.weixin.qq.com/s/ePSZYtk4AXmpc38FVY1hyw
+
